@@ -1,0 +1,9 @@
+C:\Users\ilyak\source\repos\NewTask1\NewTask1\bin\Debug\NewTask1.exe.config
+C:\Users\ilyak\source\repos\NewTask1\NewTask1\bin\Debug\NewTask1.exe
+C:\Users\ilyak\source\repos\NewTask1\NewTask1\bin\Debug\NewTask1.pdb
+C:\Users\ilyak\source\repos\NewTask1\NewTask1\obj\Debug\NewTask1.csprojAssemblyReference.cache
+C:\Users\ilyak\source\repos\NewTask1\NewTask1\obj\Debug\NewTask1.Form1.resources
+C:\Users\ilyak\source\repos\NewTask1\NewTask1\obj\Debug\NewTask1.Properties.Resources.resources
+C:\Users\ilyak\source\repos\NewTask1\NewTask1\obj\Debug\NewTask1.csproj.GenerateResource.cache
+C:\Users\ilyak\source\repos\NewTask1\NewTask1\obj\Debug\NewTask1.exe
+C:\Users\ilyak\source\repos\NewTask1\NewTask1\obj\Debug\NewTask1.pdb
